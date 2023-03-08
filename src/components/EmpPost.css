@@ -1,0 +1,42 @@
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 24px;
+    background-color: bisque;
+    margin-left: 450px;
+    border-radius: 10px;
+  }
+  
+  label {
+    margin-right: 10px;
+    font-weight: bold;
+  }
+  
+  input {
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .postbut{
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(44, 44, 147);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  .postbut:hover{
+    background-color: rgb(71, 71, 172);
+  }
+  
+  
+  
+  
